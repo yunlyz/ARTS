@@ -2,7 +2,7 @@
 
 - 原文地址：[This is what modern PHP looks like](https://medium.freecodecamp.org/this-is-what-modern-php-looks-like-769192a1320)
 - 原文作者：[Felipe Lopes](https://medium.freecodecamp.org/@felipebool)
-- 译者：[吕运]()
+- 译者：[吕运](https://github.com/yunlyz)
 
 标题真是自命不凡，不是吗？Yeah，就是。虽然我多年来一直在使用PHP，我如何说明这项工作的最佳实践和工具是什么？我不能，但我会这样做。
 
